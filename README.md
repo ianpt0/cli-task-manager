@@ -16,6 +16,5 @@ Depois de inserir todas as tarefas e seus status, o aplicativo exibirá uma tabe
 O CLI Task Manager foi desenvolvido em Python 3 e usa o pacote Rich para formatar a saída na linha de comando. 
 `pip install rich`
 
-## Contribuindo
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com correções de bugs ou melhorias no código.
+
 
